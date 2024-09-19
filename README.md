@@ -1,1 +1,1 @@
-# Gender-Classification
+The gender classification project attempts to create a machine learning model that can reliably categorise people's genders based on particular factors such as photos . Data gathering, preprocessing, feature extraction, model training, and evaluation are all steps in the process. One can use a variety of techniques, such as neural networks, SVM, and logistic regression. The initiative guarantees ethical concerns by emphasising privacy and avoiding prejudice.
